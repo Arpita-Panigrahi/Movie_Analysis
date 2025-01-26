@@ -1,8 +1,6 @@
 ---
-
 # 🎥 **Movie Analysis** 🍿  
 **Where Data Meets the Magic of Cinema**
-
 ---
 
 ## 🌟 **About the Project**  
