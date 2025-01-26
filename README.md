@@ -1,4 +1,4 @@
-# 🎥 Movie Analysis Project  
+# 🎥 Movie Analysis 
 
 ## 🎬 Project Description  
 Ever wondered what makes a movie a blockbuster? This project dives deep into the world of cinema, analyzing trends, genres, and revenue patterns to uncover the secrets behind audience favorites. From exploring the rise of genres to predicting box office hits, this analysis offers a data-driven perspective on the film industry.  
